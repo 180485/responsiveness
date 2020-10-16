@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:dimgray;
+}
+.body-responsive{
+    margin-bottom:10px;
+
+}
+.body-responsive .colomn-four {
+    background-color:royalblue;
+    float: left;
+    text-align:center;
+    width: 300px;
+    border: 15px darkred;
+    padding: 50px;
+    margin: 20px;
+}
+@media only screen and (max-width:720px){
+    .body-responsive .colomn-four {
+        background-color:coral;
+        float:left;
+        width:25%;
+    }
+}
+@media only screen and (min-width:720px) and (max-width:992px){
+    .body-responsive .colomn-four {
+        background-color: #cf2fb9;
+        float:left;
+        width: 100%;
+    }
+}
