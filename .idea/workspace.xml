@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e1aea29-4202-4340-bc7a-c66be233b095" name="Default Changelist" comment="" />
+    <list default="true" id="5e1aea29-4202-4340-bc7a-c66be233b095" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/color.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.43046874" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1ixKUJ0t9on8gME5S08Dwcs4GPF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,6 +70,10 @@
       <workItem from="1602881465547" duration="287000" />
       <workItem from="1602881879519" duration="155000" />
       <workItem from="1602882153585" duration="295000" />
+      <workItem from="1602962416463" duration="4915000" />
+      <workItem from="1603002796932" duration="4610000" />
+      <workItem from="1603019053582" duration="5770000" />
+      <workItem from="1603025112291" duration="2699000" />
     </task>
     <servers />
   </component>
@@ -73,13 +85,21 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="410" y="114" key="#CSS/0.23.1280.777@0.23.1280.777" timestamp="1602847492820" />
+    <state x="492" y="333" key="VCS.ChangelistChooser" timestamp="1603015425380">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="492" y="333" key="VCS.ChangelistChooser/0.23.1280.777@0.23.1280.777" timestamp="1603015425380" />
+    <state x="441" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603019198298">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="441" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1603019198298" />
     <state x="318" y="186" key="run.anything.popup" timestamp="1602846892753">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="318" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1602846892753" />
-    <state x="247" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1602881175323">
+    <state x="247" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1603025187562">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="247" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1602881175323" />
+    <state x="247" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1603025187562" />
   </component>
 </project>
